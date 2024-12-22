@@ -1,0 +1,7 @@
+git clone <url>  --create the  reposatory to our local work space
+git status       --- to check weather  got has initilized in our current directory
+git add <file name>        -- to  add that file in to stagimg area
+git add .        -- add all file in to the staging area
+git commit -m " message " -- tracked by git
+git push -u origin main -- push to global work space 
+git init -- to initialize git in a folder
